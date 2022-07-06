@@ -1,0 +1,7 @@
+Future goals:
+* Missing fluent movement - lose the glitch
+* Block paddles from running away :D
+* Make sound! With detecting os and if condition:
+  import winsound  ← for Windows, import os ← for linux
+* Let Players have names
+* Create an .exe file
