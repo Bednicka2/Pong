@@ -22,11 +22,11 @@ import turtle
 def scoring(penA, penB, score_a, score_b):
     penA.clear()
     penA.color("red")
-    penA.goto(-350, 260)
+    penA.goto(-330, 260)
     penA.write(f"Player A: {score_a}", align="left", font=("Courier", 16, "bold"))
     penB.clear()
     penB.color("blue")
-    penB.goto(350, 260)
+    penB.goto(330, 260)
     penB.write(f"Player B: {score_b}", align="right", font=("Courier", 16, "bold"))
 
 
